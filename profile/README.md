@@ -24,7 +24,7 @@ Modit is for writing a game as plain Lua, with nothing between you and LuaJIT an
 
 | Repository | What's in it |
 | :--- | :--- |
-| [modit](https://github.com/modit-engine/modit) | The engine and editor |
+| Currently Private | The engine and editor will be opened up public as soon as the core API is set in place, appreciate the patience |
 
 ## Status
 
