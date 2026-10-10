@@ -24,11 +24,16 @@ Modit is for writing a game as plain Lua, with nothing between you and LuaJIT an
 
 | Repository | What's in it |
 | :--- | :--- |
-| Currently Private | The engine and editor will be opened up public as soon as the core API is set in place, appreciate the patience |
+| [modit](https://github.com/modit-engine/modit) | The core engine runtime, editor, and tooling. |
 
-## Status
+## Why Open Source?
 
-Modit is in alpha and Windows only for now. I'm not taking contributions yet while the core settles, but issues and experiments are welcome.
+Modit is built by a solo developer to power my own UGC game. 
+
+It's open-source under Apache 2.0 for transparency and community adoption-**a better engine means a better game.** 
+
+- **Core Engine:** I have a clear roadmap for the runtime, so **core PRs aren't being accepted just yet** while the architecture settles. 
+- **Editor & Tooling:** I love a code-first approach. If you want to hack on the editor, build developer tools, or share ideas/suggestions, you are more than welcome!
 
 ## Help and security
 
