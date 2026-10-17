@@ -43,4 +43,4 @@ Found a sandbox escape or another security problem? Please email [security@modit
 
 ---
 
-Built by Case ([CaseIRL](https://github.com/CaseIRL)). Licensed under Apache 2.0.
+Built by Case ([CaseIRL](https://github.com/CaseIRL)). Licensed under MIT.
