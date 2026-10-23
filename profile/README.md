@@ -25,6 +25,7 @@ Modit is for writing a game as plain Lua, with nothing between you and LuaJIT an
 | Repository | What's in it |
 | :--- | :--- |
 | [modit](https://github.com/modit-engine/modit) | The core engine runtime, editor, and tooling. |
+| [modit-demos](https://github.com/modit-engine/modit-demos) | Collection of demo projects showcasing Modit. |
 
 ## Why Open Source?
 
